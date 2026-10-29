@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "repository": "https://github.com/GameDevelopment2022/unity-agent-skills",
+  "source_branch": "main",
+  "updated_date": "2026-10-29",
+  "skills": [
+    {
+      "name": "unity-ui-agent",
+      "version": "1.0.1",
+      "path": "skills/unity-ui-agent"
+    },
+    {
+      "name": "unity-environment-agent",
+      "version": "1.0.1",
+      "path": "skills/unity-environment-agent"
+    }
+  ],
+  "files": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 2701,
+      "sha256": "b2ac8d26e3132226318fcbaa3f5f57c8bdd5388f90af5a558ea7d85a2e937d74"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4130,
+      "sha256": "a416360aefecbdefd8816bec651fb34365a84579e996c6cad4c54bfffd001a4c"
+    },
+    {
+      "path": "skills/unity-environment-agent/SKILL.md",
+      "bytes": 4769,
+      "sha256": "0c1709e65f186293c0f45161db7b3a1e255cf7db4cf679bd4cb81016bc809b3b"
+    },
+    {
+      "path": "skills/unity-environment-agent/agents/openai.yaml",
+      "bytes": 438,
+      "sha256": "b23c19b08d4e5fe29a5ba0dea907f73cbe6c065f64a37ecc81cd65b4cec87576"
+    },
+    {
+      "path": "skills/unity-environment-agent/assets/icon.svg",
+      "bytes": 1738,
+      "sha256": "8936b24f674a1250d999e2c2b5901374fb4240426f32bd1ae340c352a90d617d"
+    },
+    {
+      "path": "skills/unity-ui-agent/SKILL.md",
+      "bytes": 4721,
+      "sha256": "5100376dd86bae3ef0a790467474ce247211d632002f096fe1efbd4764927942"
+    },
+    {
+      "path": "skills/unity-ui-agent/agents/openai.yaml",
+      "bytes": 398,
+      "sha256": "f16b1bab0c3da1deff40c084c47c91ba4d0ce469aaac55596da6b0d377f73f9a"
+    },
+    {
+      "path": "skills/unity-ui-agent/assets/icon.svg",
+      "bytes": 2922,
+      "sha256": "fbb6c7314886573cd56c3f86884a65afe3b5f4ce4bf1ee6baeeeb1fa50aea7a4"
+    },
+    {
+      "path": "skills/unity-ui-agent/references/adaptability.md",
+      "bytes": 2830,
+      "sha256": "abf9653dabc2082fe46596752c32a3510dc379c6fb36e73793db354f8e7bd45e"
+    }
+  ],
+  "self_excluded": true
+}

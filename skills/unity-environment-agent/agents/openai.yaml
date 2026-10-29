@@ -1,0 +1,14 @@
+interface:
+  display_name: Unity Environment Agent
+  short_description: Reuse matching textures; generate distinct surfaces
+  default_prompt: Use $unity-environment-agent to design this Unity environment, reuse
+    matching textures, and generate genuinely different missing artwork.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

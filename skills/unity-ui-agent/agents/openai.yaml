@@ -1,0 +1,14 @@
+interface:
+  display_name: Unity UI Agent
+  short_description: Reuse matching sprites and verify adaptable UI
+  default_prompt: Use $unity-ui-agent to implement this Unity panel with matching
+    existing sprites and brief adaptability checks.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
